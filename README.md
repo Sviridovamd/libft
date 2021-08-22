@@ -1,4 +1,9 @@
 # Ecole_42_21_school
+
+This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus. 
+
+
+
 42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel (founder of the telecommunication company Iliad) with several partners including Nicolas Sadirac (previous director-general of the Epitech school in France),[1] Kwame Yamgnane and Florian Bucher (former executives of Epitech).[2] The school was first opened in Paris in 2013. 
 
 ALL SCHOOL 42
